@@ -1,7 +1,8 @@
-package com.example.webrtcandroid
+package com.example.webrtcandroid.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.webrtcandroid.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
